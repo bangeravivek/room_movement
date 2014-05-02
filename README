@@ -1,0 +1,8 @@
+A simple OpenGL demo.
+A small open cube is created with a small closed cube inside it.
+The features implemented are:
+-Light source movement
+-Camera source movement
+-Restriction of movement via boundaries
+-Movement of objects
+-Basic colouring
